@@ -1,4 +1,4 @@
-# Django Blog
+# Microsoft LaunchX
 
 ## Katas de LaunchX
 
@@ -19,6 +19,6 @@ Las katas son las siguientes:
   - Módulo 8: Administrar datos con diccionarios
   - Módulo 9: Funciones 
   - Módulo 10: Manejo de errores
-  
+
 
  
