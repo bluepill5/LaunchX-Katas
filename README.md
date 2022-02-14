@@ -2,7 +2,7 @@
 
 ## Katas de LaunchX
 
-Se encuentran las Katas del programa LaunchX Onboarding:
+Se encuentran las Katas del programa LaunchX Onboarding en 'Notebooks':
 
 ## Katas
 
