@@ -8,7 +8,7 @@ Se encuentran las Katas del programa LaunchX Onboarding en [Notebooks](./Noteboo
 
 Las katas son las siguientes:
 
-  - [Modulo0](./Notebooks/Modulo 00 - Katas.ipynb)
+  - [Modulo 0: Preparación del entorno]('./Notebooks/Modulo 00 - Katas.ipynb')
   - [Módulo 1: Primeros pasos](./Notebooks/Modulo 01 - Katas.ipynb)
   - [Módulo 2: Crear y administrar proyectos](./Notebooks/Modulo 02 - Katas.md)
   - [Módulo 3: Usar lógica booleana](./Notebooks/Módulo 03 - Katas.ipynb)
